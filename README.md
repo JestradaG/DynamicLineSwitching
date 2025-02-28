@@ -7,7 +7,7 @@ To cite the contents of this repository, please cite both the paper and this rep
 Below is the BibTex for citing this snapshot of the repository.
 ```
 @misc{DLSData,
-  author =        {Juan-Alberto Estrada-Garcia and Ruiwei Jiang and Alexandre Moreira}
+  author =        {Juan-Alberto Estrada-Garcia and Ruiwei Jiang and Alexandre Moreira},
   publisher =     {},
   title =         {Dynamic line-switching in transmission system
 operation amidst wildfire-prone weather under
