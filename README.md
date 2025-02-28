@@ -14,6 +14,6 @@ operation amidst wildfire-prone weather under
 decision-dependent uncertainty},
   year =          {2025},
   doi =           {},
-  note =          {Available for download at https://github.com/},
+  note =          {Available for download at https://github.com/JestradaG/DynamicLineSwitching},
 }
  ```
